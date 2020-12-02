@@ -1,0 +1,6 @@
+<Cache hash="-6408385762853286541">
+<Attr name="dbscan_test">
+ <Depend module="" name="datadbscan"/>
+ <Depend module="" name="dbscan"/>
+</Attr>
+</Cache>

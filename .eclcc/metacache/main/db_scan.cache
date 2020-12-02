@@ -1,0 +1,7 @@
+<Cache hash="-6408385762853286541">
+<Attr module="main" name="db_scan"/>
+<Simplified>
+EXPORT integer8 db_scan := __SIMPLIFIED__(integer8);
+
+</Simplified>
+</Cache>

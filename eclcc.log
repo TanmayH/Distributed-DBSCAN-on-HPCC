@@ -1,0 +1,17 @@
+00000000 2019-06-15 12:31:53  4857  4857 list disks: Creating PIPE program process : 'lsblk -o TYPE,MAJ:MIN --pairs' - hasinput=0, hasoutput=1 stderrbufsize=0
+00000001 2019-06-15 12:31:53  4857  4857 list disks: Pipe: process 4870 complete 0
+00000002 2019-06-15 12:31:55  4857  4857 getECLPluginDefinition not found in /opt/HPCCSystems/plugins/libnestapi.so, unloading
+00000003 2019-06-15 12:31:55  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libtimelib.so[lib_timelib] version = TIMELIB 1.0.0
+00000004 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libfileservices.so[lib_fileservices] version = FILESERVICES 2.1.4
+00000005 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libauditlib.so[lib_auditlib] version = AUDITLIB 1.0.1
+00000006 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libdebugservices.so[lib_debugservices] version = DEBUGSERVICES 1.0.1
+00000007 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libstringlib.so[lib_stringlib] version = STRINGLIB 1.1.14
+00000008 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/liblogging.so[lib_logging] version = LOGGING 1.0.1
+00000009 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libunicodelib.so[lib_unicodelib] version = UNICODELIB 1.1.06
+0000000A 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libparselib.so[lib_parselib] version = PARSELIB 1.0.1
+0000000B 2019-06-15 12:31:56  4857  4857 Loading plugin /opt/HPCCSystems/plugins/libworkunitservices.so[lib_WORKUNITSERVICES] version = WORKUNITSERVICES 1.0.2
+0000000C 2019-06-15 12:31:56  4857  4857 Plugin /opt/HPCCSystems/plugins/libcassandraembed.so exports getECLPluginDefinition but does not export ECL - not loading
+0000000D 2019-06-15 12:31:56  4857  4857 Plugin /opt/HPCCSystems/plugins/libdmetaphone.so exports getECLPluginDefinition but does not export ECL - not loading
+0000000E 2019-06-15 12:31:56  4857  4857 getECLPluginDefinition not found in /opt/HPCCSystems/plugins/libopencv.so, unloading
+0000000F 2019-06-15 12:31:56  4857  4857 Plugin /opt/HPCCSystems/versioned/python2/libpy2embed.so exports getECLPluginDefinition but does not export ECL - not loading
+00000010 2019-06-15 12:31:56  4857  4857 Plugin /opt/HPCCSystems/versioned/python2/libpyembed.so exports getECLPluginDefinition but does not export ECL - not loading

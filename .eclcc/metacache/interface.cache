@@ -1,0 +1,7 @@
+<Cache hash="-6408385762853286541">
+<Attr name="interface"/>
+<Simplified>
+EXPORT integer8 interface := __SIMPLIFIED__(integer8);
+
+</Simplified>
+</Cache>
